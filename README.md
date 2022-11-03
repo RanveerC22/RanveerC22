@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranveer Chavare</h1>
-<h3 align="center">A passionate Full Stack Web Developer developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 - 🔭 I’m currently working on **Development of Online shopping T-Shirt website using MERN Stack**
 
