@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ranveerchavare2002@gmail.com**
 
-- 📄 Know about my experiences [[file:///D:/My%20Resume/Ranveer_Chavare%20Resume.pdf](https://drive.google.com/file/d/1I8lXKIjHzAMckXSNLeaEcd1QmNtyleFP/view)](file:///D:/My%20Resume/Ranveer_Chavare%20Resume.pdf)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1I8lXKIjHzAMckXSNLeaEcd1QmNtyleFP/view)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
