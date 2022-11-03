@@ -3,7 +3,8 @@
 Hello everyone! I'm Ranveer from India, and I have interest in Data Structure and Algorithm (DSA) and Web Development using MERN Stack. I really enjoy learning databases and framework like MongoDB and React JS. I also do competitive programming on various platform like CodeChef, Hacker Rank and LeetCode. You can check out my LinkedIn at https://www.linkedin.com/in/ranveerchavare22/
 
 Skills: 
-*Java
+* C:\Users\Ranveer Chavare\Downloads\mongodb
+* ⚛️ React
 
 
 JAVA / Data Science / REACT / MongoDB / Node JS / Express
