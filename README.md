@@ -8,8 +8,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/RanveerC22](https://github.com/RanveerC22)
 
 - 📝 I regularly write articles on  [https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html](https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html)
+- [https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html](https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html)
 
-[https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html](https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html)
+
 
 
 
