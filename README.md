@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, DSA, MERN Stack,**
 
-- 📫 How to reach me **ranveerchavare2002@gmail.com**
+- 📫 How to reach me **ranveer.chavare21@vit.edu**
 
 - 📄 Know about my experiences [(https://drive.google.com/file/d/1I8lXKIjHzAMckXSNLeaEcd1QmNtyleFP/view)]
 
