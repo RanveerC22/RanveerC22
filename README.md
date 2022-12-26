@@ -9,6 +9,9 @@
 
 - 📝 I regularly write articles on  [https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html](https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html)
 
+[https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html](https://activedatabsesandtriggers.blogspot.com/2022/11/active-database-and-triggers.html)
+
+
 
 - 💬 Ask me about **Java, DSA, MERN Stack,**
 
