@@ -42,13 +42,9 @@ A complete automation framework that:
 - Generates Oracle AWR report automatically  
 **Tech:** Python, SQL, Oracle AWR
 
-#### 🟣 **HUDI Data Load Automation**
-- Automated HUDI table creation, metadata loading & validations  
-- Improved consistency and eliminated manual effort  
-
 ---
 
-### 👑 Leadership & Ownership
+### Leadership & Ownership
 - Owned end-to-end performance delivery for major releases  
 - Created test plans, executed workloads, analyzed results  
 - Provided continuous updates in Scrum meetings  
