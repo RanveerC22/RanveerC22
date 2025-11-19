@@ -36,6 +36,14 @@ A complete automation framework that:
 - Auto-uploads performance stats into artifacts for review  
 **Tech:** Python, TeamCity REST API, Shell Scripting  
 
+#### 🟣 **Automated Disk Space Optimization**
+A Python script that:
+- Monitors filesystem usage on Linux agents  
+- Automatically deletes target directories when usage exceeds 70%  
+- Prints disk usage before and after cleanup for verification  
+- Can be integrated into CI/CD pipelines to prevent build failures  
+**Tech:** Python, Linux, CI/CD Automation
+  
 #### 🟣 **Oracle AWR Report Automation**
 - Captures pre-test and post-test snapshot IDs  
 - Fetches DB details from user  
